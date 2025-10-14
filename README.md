@@ -16,3 +16,12 @@ ill be posting stuff here so ye
 ██║░░╚██╗██║░░░██║██║
 ╚██████╔╝╚██████╔╝██║
 ░╚═════╝░░╚═════╝░╚═╝
+
+# Current Script
+
+Fe Grab (R6) [works on some games thah can kill npcs]
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GUI-Offical/FileTest/refs/heads/main/Grab%20R6.txt", true))()
+```
+
+
