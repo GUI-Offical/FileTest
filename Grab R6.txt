@@ -14,6 +14,7 @@ local THROW_EARLY_RATIO = 0.7
 
 local CODE_ACTIONS = {
 	dismantle = "https://raw.githubusercontent.com/GUI-Offical/TestFile-Broken/refs/heads/main/Protected_8925751398564838.lua.txt",
+    mega = "https://raw.githubusercontent.com/GUI-Offical/TestFile-Broken/refs/heads/main/obfuscated%20(2).lua",
 }
 
 local spinnerChars = {"|","/","-","\\"}
